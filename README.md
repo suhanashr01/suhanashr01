@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @suhanashr01
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning Application Development 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Application Development, Web development and Artificial intelligence 
+- 🌱 I’m currently learning Application Development, System Analysis and Design
 - 📫 How to reach me suhanashr01@gmail.com
 
 <!---
